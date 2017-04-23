@@ -1,0 +1,4 @@
+package: github.com/apinnecke/omw-sac-data
+import:
+- package: github.com/ghodss/yaml
+  version: ^1.0.0

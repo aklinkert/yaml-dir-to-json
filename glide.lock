@@ -1,0 +1,6 @@
+hash: 12db678a3dcc09ad8bb9492f84ecd115b953d0bd604949918c00783211759483
+updated: 2017-04-14T17:16:37.148472491+02:00
+imports:
+- name: github.com/ghodss/yaml
+  version: 0ca9ea5df5451ffdf184b4428c902747c2c11cd7
+testImports: []
